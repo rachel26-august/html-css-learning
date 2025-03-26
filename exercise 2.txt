@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<title>humanitarian</title>
+<div>
+<p style="background-color:rgb(0, 0, 100);"></p>
+</div>
+<div>
+<p style="background-color:rgb(0, 0, 50); border:2px; border-radius: 12px; padding: 5px;">
+</div>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<p style="color:rgb(0, 0, 100);">........<b>.....</b>.......<p>
+<br>
+<hr>
+<h1>humaniterian</h1>
+<h4>.........</h4>
+<p><bdo dir="rtl">...............</bdo></p>
+<h2 style="color:rgb(0, 0, 100);">......</h2>
+<ul>
+  <li>...........</li>
+  <li><b>....</b>...........</li>
+  <li>...........</li>
+</ul>
+<br>
+<div style="background-color: #FFF4A3;">
+ <h3>......</h3>
+<ul> 
+   <li>.......</li>
+    <li>.......</li>
+    <li>........</li>
+    <li>.........</li>
+    <li>..........</li>
+</ul>
+</div>
+<h3 style="background-color: #FFF4A33; color:rgb(0, 0, 100);">...............<h3>
+<br>
+<head>
+<style>
+table, td, th {
+    border: 1px solid;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,td {
+  text-aalign: right;
+  padding: 8px;
+}
+ th {background-color: yellow;
+}
+
+</style>
+</head>
+<table>
+
+  <tr>
+     <th>.......</th>
+  </tr>
+  <tr>
+     <td><a href=".....//..../">humaniterianism</a></td>
+   </tr>
+<table>
+<hr>
+<p>....<h5 style=:color:rbg(0, 0, 100);">.....</h5>....<a href="......//..../.../">......</a>.....</p>
+<br>
+<br>
+<h5 style="background-color:yellow";>........</h4>
+<h1>...........</h1>
+<h4>.......</h4>
+<p>..<bdo>.....</bdo></p>
+<br>
+<h3>..............</h3>
+<ul>
+  <li>......</li>
+</ul>
+<br>
+<div style="background-color:sky blue;">
+<h2>.......</h2>
+
+<p style="border-bottom: 6px solid #FFF4A3;">.......<bdo>....</bdo>...</p>
+<br>
+<ul>
+  <li>......</li>
+</ul>
+<br>
+</div>
+<hr>
+<p>....<h5 style=:color:rbg(0, 0, 100);">.....</h5>....<a href="......//..../.../">......</a>.....</p>
+<br>
+<br>
+<h5 style="background-color: yellow;">.........</h5>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<hr>
+<p>...................................................................................................</p>
+<h5>....<a href="......//..../.../">......</h5>
+</hr>
+<p>......................................................................................................</p>
+<br>
+
+
+<p style="border: 2px solid; border-radius: 12px; background-color:rgb(0, 0, 50);
+color:white;">...............</p>
+
+<head>
+<meta name="vieport" content="width=device-width, initial-scale=1.0">
+<style>
+*{
+   margin: 0
+   box-sizing: border-box;
+}
+
+.grid-container {
+  display:grid;
+  grid-template-areas:
+  'header header header header'
+  'menu main main main right'
+  'footer footer footer footer';
+  gap: 10px;
+  background-color:rgb(0, 0, 100);
+  padding: 30px;
+}
+
+.grid-container > div {
+  padding: 30px;
+  font-size:16px:
+}
+
+.item1 >p {
+color:white;
+}
+
+.item2 >h4{
+   padding: 20px;
+   margin-bottom: 7px;
+   background-color: white;
+}
+
+.item3 >h4 {
+  padding: 20px;
+  margin-bottom: 7px;
+  background-color:white;
+}
+
+.item4 >h4 {
+  padding: 20px;
+  margin-bottom: 7px;
+  background-color: white;
+}
+
+.item5 >h4 {
+  padding: 20px;
+  margin-bottom: 7px;
+  background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .item2 {grid-are: 2 /span 5;}
+  .item3 {grid-are: 3 /span 5;}  
+  .item4 {grid-are: 4 /span 5;}
+  .item5 {grid-are: 5 /span 5;}
+}
+</style>
+</head>
+<body>
+
+<div class="grid-contaner">
+
+  <p style="color:white">.........</p>
+<div class="item2">
+<p>......</p>
+<p>......</p>
+</div>
+
+<div class="item3">
+<p>........</p>
+<p>........</p>
+</div>
+
+<div class="item4">
+<p>.........</p>
+<p style="color:blue">.........</p>
+</div>
+
+<div class="item5">
+<p>..........</p>
+<p style="color:blue">..........</p>
+</div>
+
+<p style="border: 2px solid; border-radius: 12px;">......................</p>
+<hr>
+<br>
+<h3>........</h3>
+<h4>............</h4>
+<br>
+<h3 style="border: 2px solid; border-radius:12px; background-color: yellow; color:blue:">..................</h3>
+<br>
+</div>
+<br>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100px;
+}
+ 
+th, td {
+  text-align: left;
+  padding:  8px;
+}
+
+tr:th {background-color: yellow;}
+<s/style>
+</head>
+<body>
+<table>
+<tr>
+<th>...............</th>
+</tr>
+<tr>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+<td>........</td>
+</tr>
+</table>
+
+
+</body>
+</html>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

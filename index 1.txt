@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<a href="......................">This is a link</a>
+<title>........................</title>
+<p style="color:blue;">......<p>      
+<h3 style="color:gray;">.....</h3>
+<head>
+<style>
+<p.uppercase {
+    text-transform: uppercase;
+}
+<p.capitalize {
+  text-transform: capitalize
+}
+</style>
+</head>
+<body>
+<p class="uppercase">........</p>
+<p class="capitalize">.......</p>
+
+
+<p>..........</p>
+<img src="............">
+<p>........<q>.....</q>......<q>......</q>.............</p>
+<br>
+<br>
+<p>......................................<q>.....</q>....<q>.....</q>.....................</p>
+<br>
+<p>.................</p>
+<br>
+<P>................</p>
+<br>
+<h2>...............</h2>
+<p>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

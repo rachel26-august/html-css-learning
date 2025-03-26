@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.mask2 {
+   -webkit-mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.5) 50%);
+    mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.5) 50%);
+} 
+
+.mask3 {
+   -webkit-mask-image: radial-gradient(ellipse, black 50%, rgba(0, 0, 0, 0.5) 50%);
+    mask-image: radial-gradient(ellipse, black 50%, rgba(0, 0, 0, 0.5) 50%);
+}
+
+</style>
+</head>
+<body>
+<h1>Mask Image Property</h1>
+
+<div class="mask2">
+<img src="https://th.bing.com/th/id/OIP.kmFC7BDpQhjUSrIPj4OSCAHaE6?w=4216&h=2800&rs=1&pid=ImgDetMain" width="600" height="400">
+</div>
+
+<div class="mask3">
+<img src="https://th.bing.com/th/id/OIP.kmFC7BDpQhjUSrIPj4OSCAHaE6?w=4216&h=2800&rs=1&pid=ImgDetMain" width="600" height="400">
+</div>
+
+
+<svg wiidth="600" height="400">
+   <mask id="svgmask2">
+    <polygon fll="#ffffff"
+points="100, 10 40, 198 190, 78 10, 78 160, 198"></polygon>
+  </mask>
+   <image xmlns:xlink="https://th.bing.com/th/id/OIP.kmFC7BDpQhjUSrIPj4OSCAHaE6?w=4216&h=2800&rs=1&pid=ImgDetMain"
+xlink:href="https://th.bing.com/th/id/OIP.kmFC7BDpQhjUSrIPj4OSCAHaE6?w=4216&h=2800&rs=1&pid=ImgDetMain"
+mask="url(#svgmask2)"></image>
+</svg>
+</div>
+
+</body>
+</html>
